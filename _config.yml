@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Clarity-CEC2-2022 Workshop
+title: Clarity-2023 Workshop
 email: claritychallengecontact@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 #  Details of the Clarity 2022 workshop
@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "claritychallenge.github.io/clarity-2022-workshop"
+repository: "claritychallenge.github.io/clarity2023-workshop"
 
 # Build settings
 plugins:
@@ -34,7 +34,7 @@ header_pages:
   - dates.md
 #  - registration.md
   - programme.md
-  - results.md
+#  - results.md
   - organisers.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
