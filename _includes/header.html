@@ -1,0 +1,48 @@
+  <div class="row clarity-light-panel" style="padding:4px">
+    <div class="col-md-2 align-self-center">
+      <div class="container">
+        <img class="img-responsive" width="100" src="{{ "/assets/images/clarity_logo_black.png"| relative_url }}" alt="Clarity logo"></img> 
+      </div>
+    </div>
+    <div class="col-md-8 align-self-center">
+        <div class="container" style="font-size:26px">
+          The 3rd Clarity Workshop on
+          Machine Learning Challenges for Hearing Aids (Clarity-CEC2-2022)
+        </div>
+    </div>
+    <div class="col-md-2 align-self-center">
+        <div class="container">
+            <img class="img-responsive" width="120" src="{{ "/assets/images/UKRI-logo.png"| relative_url }}" alt="EPSRC logo"></img> 
+
+        </div>
+    </div>
+  </div>
+
+<nav class="py-0 navbar navbar-expand-sm navbar-dark clarity-dark-panel">
+  <div class="container align-self-center">
+      
+      <a class="navbar-brand navbar" rel="author" href="{{ "/" | relative_url }}"> Home</a> 
+    {%- assign page_paths = site.header_pages -%}
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          </li>
+          {%- endif -%}
+        {% endfor -%}
+        <li class="nav-item">
+          <!--<a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>-->
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="263.63052"
+   height="185.28363"
+   viewBox="0 0 263.63052 185.28363"
+   sodipodi:docname="earfinal_clarity_customColour.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\SGS571\OneDrive - University of Salford\RHDP\Logo\ear4_clarity.png"
+   inkscape:export-xdpi="400"
+   inkscape:export-ydpi="400">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-1.2171276"
+     inkscape:cy="59.80415"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Solid clarity"
+     style="display:inline"
+     transform="translate(-113.81447,-14.364814)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.51828003px;line-height:1.25;font-family:'Basier Circle';-inkscape-font-specification:'Basier Circle';letter-spacing:0px;word-spacing:0px;display:inline;fill:#940e51;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:0.51627904;"
+       x="145.09091"
+       y="143.11482"
+       id="text853-9"
+       transform="scale(1.0135897,0.9865925)"><tspan
+         sodipodi:role="line"
+         id="tspan851-2"
+         x="145.09091"
+         y="143.11482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;font-family:'Basier Circle';-inkscape-font-specification:'Basier Circle';stroke-width:0.75724661;stroke:none;stroke-opacity:0.51627904;fill:#940e51;fill-opacity:1;">Clarity</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Solid outer"
+     transform="translate(-113.81447,-14.364814)">
+    <path
+       style="fill:none;stroke:#940e51;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 221.11091,75.085786 C 222.09565,72.13158 223.46169,10.216209 169,20.5 c -54.46169,10.283791 -61.22179,92.31905 -36.30209,135.48123 24.9197,43.16219 60.648,50.46164 77.75352,20.834"
+       id="path111"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czsc" />
+    <path
+       style="fill:none;stroke:#940e51;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 196,83.5 c 0,0 18.70962,-48.610014 -20.37852,-38.492786 -39.08814,10.117228 -41.13295,88.830516 -27.46451,102.498946"
+       id="path4621"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+  </g>
+</svg>

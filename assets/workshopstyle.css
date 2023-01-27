@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+}
+.wrapper {
+  min-height: 100%;
+  height: auto !important; /* This line and the next line are not necessary unless you need IE6 support */
+  height: 100%;
+  margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer,
+.push {
+  height: 155px; /* .push must be the same height as .footer */
+}
+
+h1 {
+  text-align: left;
+  font-family: verdana, helvetica, arial, sans-serif;
+  font-weight: bold;
+  font-size: 13pt;
+  margin: 1em 0px 6px 0px;
+  padding: 0px;
+  color: #521850;
+}
+
+h2 {
+  font-size: 11pt;
+  font-weight: bold;
+  margin: 1em 0px 6px 0px;
+  padding: 0px;
+  color: #521850;
+}
+
+h3 {
+  font-size: 9pt;
+  font-weight: bold;
+  margin: 1em 0px 4px 0px;
+  padding: 0px;
+  color: #521850;
+}
+
+.section {
+  clear: left;
+  float: left;
+  padding: 0px;
+  margin: 10px 0px 0px 0px;
+}
+
+.section p {
+  margin: 8px 0 0px 0;
+}
+.section ul {
+  padding: 5px 20px 0 40px;
+  margin: 0;
+}
+.section ul li {
+  background: url(/assets/images/redbullet.gif) no-repeat 0px 8px;
+  list-style: none;
+  padding: 0 0 6px 14px;
+  margin: 0;
+}
+
+.box h2 {
+  font-weight: normal;
+  background-color: #882885;
+  color: #f8f8f8;
+  text-align: left;
+  padding: 1px 12px;
+  margin: 10px 0 10px 0;
+}
+
+.box {
+  padding: 10px 0px 0px 0px;
+  font-size: 10pt;
+}
+
+.box ul li {
+  list-style: square;
+  padding: -20px;
+  margin: 0px 0px 0px -20px;
+}

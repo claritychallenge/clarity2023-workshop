@@ -1,0 +1,15 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$clarity-light: #882885 !default;
+$clarity-dark: #521850 !default;
+$clarity-grey: #eeeeee !default;
+$clarity-red: #882885 !default;
+
+@import "variables";
+@import "bootstrap/bootstrap";
+@import "syntax-highlighting";
+@import "bootstrap-4-jekyll/bootstrap-4-jekyll";
+@import "bootstrap_customization";
+@import "clarity";
