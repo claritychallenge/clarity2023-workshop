@@ -12,6 +12,7 @@ If you have any queries please contact the organisers by emailing <a href="mailt
                     <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham</a></li>
                     <li> Will Bailey<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
                     <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
+                    <li> Fei Chen<br /> <a href="#" class="text-muted">Southern University of Science and Technology, China </a></li>
                     <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford </a></li>
             </ul>
         </div>

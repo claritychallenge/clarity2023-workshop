@@ -58,14 +58,15 @@ The Clarity-2023 will also host the 2nd Clarity Prediction Challenge, that is ta
 
         <div class="board-list">
             <ul>
-                <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham</a></li>
-                <li> Will Bailey<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
-                <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
-                <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford </a></li>
-                <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff</a></li>
-                <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford </a></li>
-                <li> Andrew Hines<br /> <a href="#" class="text-muted">University College Dublin </a></li>
-                <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham</a></li>
+                <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham, UK</a></li>
+                <li> Will Bailey<br /> <a href="#" class="text-muted">University of Sheffield, UK </a></li>
+                <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield, UK </a></li>
+                <li> Fei Chen<br /> <a href="#" class="text-muted">Southern Uni. Sci. & Tech, China </a></li>
+                <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
+                <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff, UK</a></li>
+                <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford, UK </a></li>
+                <li> Andrew Hines<br /> <a href="#" class="text-muted">University College Dublin, Ireland </a></li>
+                <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham, UK</a></li>
                 <li> <a href="organisers.html"> More info </a> </li>
             </ul>
         </div>
