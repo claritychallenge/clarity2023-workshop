@@ -8,27 +8,22 @@ If you have any queries please contact the organisers by emailing <a href="mailt
 <div class="row">
     <div class="col-md-6">
         <div class="container">
-            <h2> The Clarity Project Team</h2>
             <ul>
- <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham</a></li>
+                    <li> Michael Akeroyd<br /><a href="#" class="text-muted">University of Nottingham</a></li>
                     <li> Will Bailey<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
                     <li> Jon Barker<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
                     <li> Trevor Cox<br /> <a href="#" class="text-muted">University of Salford </a></li>
-                    <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff</a></li>
-
             </ul>
         </div>
     </div>
 
     <div class="col-md-6">
         <div class="container">
-            <br /><br />
-            <ul><li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford </a></li>
-                    <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham</a></li>
-
-                    <li> Zuza Podwinska<br /> <a href="#" class="text-muted">University of Salford </a></li>
-                    <li> Zehai Tu<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
-                    <li> Alice Tucker<br /> <a href="#" class="text-muted">University of Sheffield </a></li>
+            <ul>
+            <li> John Culling<br /> <a href="#" class="text-muted">University of Cardiff</a></li>
+            <li> Simone Graetzer<br /> <a href="#" class="text-muted">University of Salford </a></li>
+            <li> Andrew Hines<br /> <a href="#" class="text-muted">University College Dublin </a></li>
+            <li> Graham Naylor<br /> <a href="#" class="text-muted">University of Nottingham</a></li>
             </ul>
         </div>
     </div>
@@ -38,6 +33,7 @@ If you have any queries please contact the organisers by emailing <a href="mailt
         <div class="container">
             <h2> The Student Prize Panel</h2>
             <ul>
+
  <li> Jesper Boldt<br /><a href="#" class="text-muted">GN Advanced Science</a></li>
                     <li> Tobias Goehring<br /> <a href="#" class="text-muted">University of Cambridge </a></li>
                     <li> Chas Pavlovic<br /> <a href="#" class="text-muted">BatAndCat Sound Labs </a></li>
@@ -51,13 +47,18 @@ If you have any queries please contact the organisers by emailing <a href="mailt
             <br /><br />
             <ul>
                 <!--<li> Kateřina Žmolíková<br /> <a href="#" class="text-muted">Brno University of Technology</a></li>-->
-                
+
             </ul>
         </div>
     </div>
 
-
 </div>
+
+<h1> Scientific Committee</h1>
+
+(Membership to be announced)
+
+<br/>
 
 <h1> Sponsors </h1>
 
