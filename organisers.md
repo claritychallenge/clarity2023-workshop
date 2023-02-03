@@ -93,6 +93,10 @@ We thank our generous sponsors
         <div class="col-sm">
             <a href="https://www.amazon.science"><img height="90" vspace="20" alt="Amazon logo"  src="{{ "/assets/images/Amazon-logo.png"| relative_url }}"></a>
         </div>
+        <div class="col-sm">
+            <a href="https://isca-speech.org/iscaweb/"><img height="90" vspace="20" alt="ISCA logo" src="{{ "/assets/images/isca.png"| relative_url }}"></a>
+        </div>
+
         <div class="col-sm"></div>
     </div>
 
