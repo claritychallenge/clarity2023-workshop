@@ -32,7 +32,7 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - dates.md
-#  - registration.md
+  - registration.md
   - programme.md
 #  - results.md
   - venue.md

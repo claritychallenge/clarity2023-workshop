@@ -8,7 +8,7 @@ title: Machine Learning Challenges for Hearing Aids (Clarity-2023)
 <div class="col-md-9">
 
     <font color="#882885" size="2pt">
-        <p><big><i><b>19th August 2023, Dublin, Ireland</b></i></big></p>
+        <p><big><i><b>19th August 2023, Trinity Business School, Dublin, Ireland</b></i></big></p>
     </font>
 
 <!--<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
@@ -82,7 +82,7 @@ The Clarity-2023 will also host the 2nd Clarity Prediction Challenge, that is ta
 
         <div class="board-list">
             <ul>
-                <li> <b>Registration opens</b>: 1st March</li>
+                <li> <b>Registration opens</b>: late March</li>
                 <li> <a href="dates.html">More info</a> </li>
             </ul>
         </div>

@@ -3,19 +3,27 @@ layout: page
 title: Registration
 ---
 
+<p/> Registration will be opening at the end of March.
+
+<p/> There will be two ways to register.
+
+<ul>
+<li/> <b>If you are attending Interspeech</b>, you will be able to register for the workshop as part of your <a href="https://www.interspeech2023.org/registration/">Interspeech registration</a>.
+
+<li/> <b>All participants</b> (including those not attending Interspeech), will be able to register for the workshop alone through a separate registration page.
+</ul>
+
+<h2>Registration fees</h2>
+
 <p>
-The Clarity-CEC2-2022 Workshop is free to attend and is open to everyone, but requires prior registration.</p>
+Registration fees will be,
 
-<p>To register, please click the button below and complete the form to provide your name and affiliation.</p>
+<ul>
+<li/> Full: 70 euros
+<li/> Student: 50 euros
+</ul>
 
+<p>There will be no early/late registration fees, but registration will close when the workshop is full.
 
-<a href="https://us02web.zoom.us/webinar/register/WN_pvhHQdLLToOIcpLbciPyXg" target="_blank">
-      <button class="btn btn-primary">Register me for the Clarity CEC2 2022 Workshop (12th December) </button>
-    </a> 
-
-
-
-<p>Note, the  workshop will be run using the Zoom Webinar platform. Once you have registered you will receive separate emails with the link and password needed to access the events. Confirmation emails should arrive within 24 hours of registering.</p>
-
-
+<p> Registration will provide access to all sessions, and will include tea/coffee breaks and a workshop lunch.
 <p/>
