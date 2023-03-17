@@ -7,7 +7,7 @@ title: Important Dates
  <div class="col-md-6">
   
     <h2>Workshop registration open</h2>
-        1st March 2023
+        End of March 2023
 
     <h2>2nd Clarity Prediction Challenge (CPC2) Launch</h2>
         1st March 2022
