@@ -4,9 +4,14 @@ title: Venue
 ---
 
 <p/>
-The workshop will be held in Trinity Business School, Trinity College Dublin, Ireland.
+The workshop will be held in <a href="https://www.tcd.ie/business/">Trinity Business School</a>.
 
-<p>The Trinity Business School (B) is located in the heart of Dublin city centre, and is a 15 minute walk from the main Interspeech venue, the Convention Centre Dublin (A).
+<p>
+<img height="400" vspace="30" alt="Trinity Business School"  src="{{ "/assets/images/trinity_business_school.jpg"| relative_url }}">
+
+<p>The Trinity Business School (location B, below) is located in the heart of Dublin city centre.
+
+<p>It is a 15 minute walk from the main Interspeech venue, the Convention Centre Dublin (A).
 
 <br/>
 
