@@ -33,6 +33,7 @@ plugins:
 header_pages:
   - dates.md
   - registration.md
+  - submissions.md
   - programme.md
 #  - results.md
   - venue.md
