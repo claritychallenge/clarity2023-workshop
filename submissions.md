@@ -19,7 +19,7 @@ Papers can be submitted using the CMT conference system. A link will appear here
 
 <h2>Author kit</h2>
 
-Please use the provided Interspeech 2023 <a href="{{ "/assets/Clarity2023_paper_kit.tar.gz"| relative_url }}" >author kit</a> to prepare your paper.
+Please use the provided <a href="{{ "/assets/Clarity2023_paper_kit.tar.gz"| relative_url }}" >author kit</a> to prepare your paper.
 
 <h2>Regular papers</h2>
 <ul>
