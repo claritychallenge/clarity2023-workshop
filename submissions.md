@@ -7,15 +7,13 @@ Papers can be either related to the Clarity Enhancement Challenge or to the work
 
 <p/>We are accepting both ‘Regular’ papers related to the Workshop’s theme and “Clarity Prediction Challenge’ papers. For details of the format, submission deadlines and review process for each type, see below.
 
-Papers can be submitted using the CMT conference system. A link will appear here when submissions open at the start of April.
+Papers can be submitted using the CMT conference system.
 
-<!--
 <center>
-    <a href="https://cmt3.research.microsoft.com/CLARITY2021" target="_blank">
+    <a href="https://cmt3.research.microsoft.com/CLARITY2023" target="_blank">
       <button class="btn btn-primary">Submit paper/abstract via CMT </button>
     </a>
   </center>
--->
 
 <h2>Author kit</h2>
 
