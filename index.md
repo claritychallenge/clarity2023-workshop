@@ -75,14 +75,16 @@ The Clarity-2023 will also host the 2nd Clarity Prediction Challenge, that is ta
 
           <div class="board-list">
             <ul>
-                <li>TBC</li>
+                <li> DeLiang Wang<br /> <a href="#" class="text-muted">Ohio State University, US</a></li>
+                <li> ... </li>
             </ul>
+            
         </div>
         <h2> Dates </h2>
 
         <div class="board-list">
             <ul>
-                <li> <b>Registration opens</b>: late March</li>
+                <li> <b>Registration opens</b>: mid April</li>
                 <li> <a href="dates.html">More info</a> </li>
             </ul>
         </div>
