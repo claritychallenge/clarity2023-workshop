@@ -29,36 +29,42 @@ If you have any queries please contact the organisers by emailing <a href="mailt
         </div>
     </div>
 
+</div>
 
-    <!--<div class="col-md-6">
+<div class="row">
+    <div class="col-md-6">
         <div class="container">
-            <h2> The Student Prize Panel</h2>
+            <h1> Scientific Committee</h1>
             <ul>
 
- <li> Jesper Boldt<br /><a href="#" class="text-muted">GN Advanced Science</a></li>
-                    <li> Tobias Goehring<br /> <a href="#" class="text-muted">University of Cambridge </a></li>
-                    <li> Chas Pavlovic<br /> <a href="#" class="text-muted">BatAndCat Sound Labs </a></li>
+<li>Martin Cooke,	<a href="#" class="text-muted">University of the Basque Country, Spain</a></li>
+<li>Peter Derleth,	<a href="#" class="text-muted">Sonova AG, Switzerland</a></li>
+<li>Ken Grant,	<a href="#" class="text-muted">Walter Reed National Military Medical Center, US</a></li>
+<li>Volker Hohmann,	<a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
+<li>Inga Holube,	<a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
+<li>Jesper Jensen,	<a href="#" class="text-muted">Oticon A/S and Aalborg University, Denmark</a></li>
 
             </ul>
         </div>
-    </div> -->
+    </div>
 
     <div class="col-md-6">
         <div class="container">
             <br /><br />
             <ul>
-                <!--<li> Kateřina Žmolíková<br /> <a href="#" class="text-muted">Brno University of Technology</a></li>-->
+
+<li>Ricard Marxer,	<a href="#" class="text-muted">University of Toulon, France</a></li>
+<li>Bernd Meyer,	<a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
+<li>Gaby Saunders,	<a href="#" class="text-muted">University of Manchester, UK</a></li>
+<li>Gerald Schuller,	<a href="#" class="text-muted">Ilmenau University of Technology, Germany</a></li>
+<li>Astrid Van Wieringen,	<a href="#" class="text-muted">K.U. Leuven, Belgium</a></li>
+<li>Zhengjun Yue,	<a href="#" class="text-muted">TU Delft, The Netherlands</a></li>
 
             </ul>
         </div>
     </div>
 
 </div>
-
-<h1> Scientific Committee</h1>
-
-(Membership to be announced)
-
 <br/>
 
 <h1> Sponsors </h1>
