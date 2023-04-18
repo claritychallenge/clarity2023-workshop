@@ -37,12 +37,14 @@ If you have any queries please contact the organisers by emailing <a href="mailt
             <h1> Scientific Committee</h1>
             <ul>
 
+<li>Lars Bramsløw,	<a href="#" class="text-muted">Eriksholm Research Centre, Oticon, Denmark</a></li>
 <li>Martin Cooke,	<a href="#" class="text-muted">University of the Basque Country, Spain</a></li>
 <li>Peter Derleth,	<a href="#" class="text-muted">Sonova AG, Switzerland</a></li>
+<li>Jacques Grange,	<a href="#" class="text-muted">Starkey, US</a></li>
 <li>Ken Grant,	<a href="#" class="text-muted">Walter Reed National Military Medical Center, US</a></li>
+<li>Eric Healey,	<a href="#" class="text-muted">Ohio State University, US</a></li>
 <li>Volker Hohmann,	<a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
 <li>Inga Holube,	<a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
-<li>Jesper Jensen,	<a href="#" class="text-muted">Oticon A/S and Aalborg University, Denmark</a></li>
 
             </ul>
         </div>
@@ -53,6 +55,7 @@ If you have any queries please contact the organisers by emailing <a href="mailt
             <br /><br />
             <ul>
 
+<li>Jesper Jensen,	<a href="#" class="text-muted">Oticon A/S and Aalborg University, Denmark</a></li>
 <li>Ricard Marxer,	<a href="#" class="text-muted">University of Toulon, France</a></li>
 <li>Bernd Meyer,	<a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
 <li>Gaby Saunders,	<a href="#" class="text-muted">University of Manchester, UK</a></li>
