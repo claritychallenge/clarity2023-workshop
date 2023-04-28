@@ -45,6 +45,7 @@ If you have any queries please contact the organisers by emailing <a href="mailt
 <li>Eric Healey, <a href="#" class="text-muted">Ohio State University, US</a></li>
 <li>Volker Hohmann, <a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
 <li>Inga Holube, <a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
+<li>Jesper Jensen, <a href="#" class="text-muted">Oticon A/S and Aalborg University, Denmark</a></li>
 
             </ul>
         </div>
@@ -55,9 +56,10 @@ If you have any queries please contact the organisers by emailing <a href="mailt
             <br /><br />
             <ul>
 
-<li>Jesper Jensen, <a href="#" class="text-muted">Oticon A/S and Aalborg University, Denmark</a></li>
+<li>Marko Lugger, <a href="#" class="text-muted">WS Audiology, Germany</a></li>
 <li>Ricard Marxer, <a href="#" class="text-muted">University of Toulon, France</a></li>
 <li>Bernd Meyer, <a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
+<li>Henning Puder, <a href="#" class="text-muted">WS Audiology, Germany</a></li>
 <li>Gaby Saunders, <a href="#" class="text-muted">University of Manchester, UK</a></li>
 <li>Gerald Schuller, <a href="#" class="text-muted">Ilmenau University of Technology, Germany</a></li>
 <li>Bert De Vries, <a href="#" class="text-muted">GN ReSound A/S and TU Eindhoven, The Netherlands</a></li>
