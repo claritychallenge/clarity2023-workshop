@@ -3,17 +3,39 @@ layout: page
 title: Registration
 ---
 
-<p/> Registration will be opening at the end of March.
+<p/> Registration is now open.
 
-<p/> There will be two ways to register.
+<p/> There are two ways to register.
 
 <ul>
-<li/> <b>If you are attending Interspeech</b>, you will be able to register for the workshop as part of your <a href="https://www.interspeech2023.org/registration/">Interspeech registration</a>.
+<li/> If you are attending Interspeech, you can register for the workshop as part of your <a href="https://www.interspeech2023.org/registration/">Interspeech registration</a>.
 
-<li/> <b>All participants</b> (including those not attending Interspeech), will be able to register for the workshop alone through a separate registration page.
+<p/>
+
+<center>
+    <a href="https://na.eventscloud.com/ereg/index.php?eventid=741218&" target="_blank">
+      <button class="btn btn-primary">Register for Interspeech and the Workshop </button>
+    </a>
+  </center>
+
+<p/>
+
+<li/> Alternatively, you can register for the workshop alone using the link below.
 </ul>
 
-<h2>Registration fees</h2>
+<p/>
+
+<center>
+    <a href="https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/the-4th-international-clarity-workshop-on-machine-learning-challenges-for-hearing-aids-clarity-2023" target="_blank">
+      <button class="btn btn-primary">Register for the Workshop only </button>
+    </a>
+  </center>
+
+<p/>
+
+Note, the workshop is open to participants who are not attending Interspeech.
+
+<h1>Registration fees</h1>
 
 <p>
 Registration fees will be,
@@ -23,7 +45,7 @@ Registration fees will be,
 <li/> Student: 50 euros
 </ul>
 
-<p>There will be no early/late registration fees, but registration will close when the workshop is full.
+<p>There will be no late registration fee, i.e., the registration fee will remain the same until registration closes. Registration will close when the workshop is full or by 5th August 2023, whichever is sooner.
 
 <p> Registration will provide access to all sessions, and will include tea/coffee breaks and a workshop lunch.
 <p/>

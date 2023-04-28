@@ -84,7 +84,8 @@ The Clarity-2023 will also host the 2nd Clarity Prediction Challenge, that is ta
 
         <div class="board-list">
             <ul>
-                <li> <b>Registration opens</b>: mid April</li>
+                <li> Registration is <a href="registration.html">now open</a></li>
+                <li> Paper submission deadline 2nd June</li>
                 <li> <a href="dates.html">More info</a> </li>
             </ul>
         </div>
