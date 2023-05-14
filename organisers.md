@@ -45,7 +45,7 @@ If you have any queries please contact the organisers by emailing <a href="mailt
 <li>Ken Grant, <a href="#" class="text-muted">Walter Reed National Military Medical Center, US</a></li>
 <li>Eric Healey, <a href="#" class="text-muted">Ohio State University, US</a></li>
 <li>Volker Hohmann, <a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
-<li>Inga Holube, <a href="#" class="text-muted">University of Oldenburg, Germany</a></li>
+<li>Inga Holube, <a href="#" class="text-muted">Jade University of Applied Sciences, Oldenburg, Germany</a></li>
 <li>Jesper Jensen, <a href="#" class="text-muted">Oticon A/S and Aalborg University, Denmark</a></li>
 <li>Ying-Hui Lai, <a href="#" class="text-muted">National Yang Ming Chiao Tung University, Taiwan</a></li>
 <li>Jun Lan, <a href="#" class="text-muted">Bozy Medical Technology Co., Ltd., China</a></li>
