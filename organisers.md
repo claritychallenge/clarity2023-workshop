@@ -67,7 +67,7 @@ If you have any queries please contact the organisers by emailing <a href="mailt
 <li>Gerald Schuller, <a href="#" class="text-muted">Ilmenau University of Technology, Germany</a></li>
 <!--<li>Chin-Tuan Tan, <a href="#" class="text-muted">A*STAR, Singapore</a></li> -->
 <li>Yu Tsao, <a href="#" class="text-muted">Academia Sinica, Taiwan</a></li>
-<li>Bert De Vries, <a href="#" class="text-muted">GN ReSound A/S and TU Eindhoven, The Netherlands</a></li>
+<li>Bert De Vries, <a href="#" class="text-muted">TU Eindhoven and GN Hearing, The Netherlands</a></li>
 <li>Jing Wang, <a href="#" class="text-muted">Beijing Institute of Technology, China</a></li>
 <li>Astrid Van Wieringen, <a href="#" class="text-muted">KU Leuven, Belgium</a></li>
 <li>Zhengjun Yue, <a href="#" class="text-muted">TU Delft, The Netherlands</a></li>
