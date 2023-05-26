@@ -27,7 +27,7 @@ title: Programme
 <div class="col-sm-9">
 <h1 class="lead">DeLiang Wang <div class="text-muted">Ohio State University, US</div></h1>
 
-<h1>Title TBC</h1>
+<h1>Neural Spectrospatial Filtering</h1>
 
 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractWang" aria-expanded="false" aria-controls="collapseAbstractWang">
     Abstract and Bio
@@ -40,11 +40,26 @@ title: Programme
 <div class="collapse" id="collapseAbstractWang">
 
 <div class="card-body">
-<h1 class="card-title">Title TBC</h1>
+<h1 class="card-title">Neural Spectrospatial Filtering</h1>
 
 <h3>Abstract</h3>
 
-<p>TBC.</p>
+<p>As the most widely-used spatial filtering approach for multi-channel signal separation,
+beamforming extracts the target signal arriving from a specific direction. We present an
+emerging approach based on multi-channel complex spectral mapping, which trains a deep
+neural network (DNN) to directly estimate the real and imaginary spectrograms of the target
+signal from those of the multi-channel noisy mixture. In this all-neural approach, the trained
+DNN itself becomes a nonlinear, time-varying spectrospatial filter. How does this conceptually
+simple approach perform relative to commonly-used beamforming techniques on different array
+configurations and in different acoustic environments? We examine this issue systematically on
+speech dereverberation, speech enhancement, and speaker separation tasks. Comprehensive
+evaluations show that multi-channel complex spectral mapping achieves very competitive speech
+separation results compared to beamforming for different array geometries, and reduces to
+monaural complex spectral mapping in single-channel conditions, demonstrating the versatility
+of this new approach for multi-channel and single-channel speech separation. In addition, such
+an approach is computationally more efficient than popular mask-based beamforming. We
+conclude that this neural spectrospatial filter provides a broader approach than traditional and
+DNN-based beamforming.</p>
 
 <h3>Bio</h3>
 
