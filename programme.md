@@ -3,19 +3,43 @@ layout: page
 title: Programme
 ---
 
+Clarity-2023 will be a one-day workshop with a single track.
+
+The morning will focus on <b>hearing aid speech intelligibility prediction</b> and will present the outcomes 2nd Clarity Prediction Challenge. The afternoon will focus on <b>hearing aid speech enhancement</b> and will conclude with a discussion of requirements for the 3rd Clarity Enhancement Challenge.
+
+Provisional timings and session details are provided below. All times are in Dublin local time (UTC+1).
+
 <div class="panel panel-default">
 <div class="panel-body">
 
-<p>Clarity-2023 will be a one-day workshop with a single track.
+<div class="card  m-3">
 
-<p>There will be a session devoted to the outcomes of the 2nd Clarity Prediction Challenge.
+<div class="card-body">
 
-<p> Further details of keynote talkers and panel discussion sessions are to be announced.
+<table style="margin-left: 1em;">
+<tbody>
+<tr><td>9:00</td><td>Welcome</td></tr>
+<tr><td>9:10</td><td><a href="#keynote1">Keynote 1</a> - Fei Chen (SUSTech) </td> </tr>
+<tr><td>10:00</td><td>The Clarity Prediction Challenge Overview </td></tr>
+<tr><td>10:20</td><td>Break</td></tr>
+<tr><td>10:40</td><td>Clarity Prediction Challenge Systems</td></tr>
+<tr><td>12:40</td><td> Prizes and conclusions </td> </tr>
+<tr><td>12:50</td><td>Lunch</td></tr>
+<tr><td>13:30</td><td><a href="#keynote2">Keynote 2</a> - DeLiang Wang (Ohio State University) </td> </tr>
+<tr><td>14:30</td><td>Break</td></tr>
+<tr><td>15:00</td><td>Hearing Aid Speech Enhancement </td></tr>
+<tr><td>17:00</td><td> CEC3 discussion + Future Directions </td></tr>
+<tr><td>17:30</td><td>Close</td></tr>
+
+</tbody>
+</table>
+</div>
+</div>
 
 <h1>Keynote talks</h1>
 
 <div class="card m-3">
-  <a name="talk1"></a>
+  <a name="keynote1"></a>
 
 <div class="card-header">
 <div class="row  align-items-center">
@@ -33,8 +57,6 @@ title: Programme
     Abstract and Bio
   </button>
 
-</div>
-</div>
 </div>
 
 <div class="collapse" id="collapseAbstractWang">
@@ -55,8 +77,11 @@ title: Programme
 
 </div>
 
+</div>
+</div>
+
 <div class="card m-3">
-  <a name="talk1"></a>
+  <a name="keynote2"></a>
 
 <div class="card-header">
 <div class="row  align-items-center">
