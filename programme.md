@@ -53,13 +53,13 @@ Provisional timings and session details are provided below. All times are in Dub
 
 <h1>Objective speech intelligibility prediction: Insights from human speech perception</h1>
 
-<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractWang" aria-expanded="false" aria-controls="collapseAbstractWang">
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractWang" aria-expanded="false" aria-controls="collapseAbstractChen">
     Abstract and Bio
   </button>
 
 </div>
 
-<div class="collapse" id="collapseAbstractWang">
+<div class="collapse" id="collapseAbstractChen">
 
 <div class="card-body">
 <h1 class="card-title">Objective speech intelligibility prediction: Insights from human speech perception</h1>
