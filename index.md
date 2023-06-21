@@ -76,6 +76,8 @@ The Clarity-2023 will also host the 2nd Clarity Prediction Challenge, that is ta
           <div class="board-list">
             <ul>
                 <li> DeLiang Wang<br /> <a href="#" class="text-muted">Ohio State University, US</a></li>
+                <li> Fei Chen<br /> <a href="#" class="text-muted">SUSTech, China</a></li>
+
                 <li> ... </li>
             </ul>
             
