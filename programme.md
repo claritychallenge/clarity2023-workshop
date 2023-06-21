@@ -48,7 +48,7 @@ title: Programme
 
 <h3>Bio</h3>
 
-<p>To appear.</p>
+<p>Fei Chen (Senior Member, IEEE) received the B.Sc. and M.Phil. degrees from the Department of Electronic Science and Engineering, Nanjing University, Nanjing, China, in 1998 and 2001, respectively, and the Ph.D. degree from Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong, in 2005. He continued his research as Postdoctor and Senior Research Fellow with the University of Texas at Dallas, supervised by Prof. Philipos Loizou, and The University of Hong Kong, Hong Kong. He is currently a Full Professor with the Department of Electrical and Electronic Engineering, Southern University of Science and Technology (SUSTech), Shenzhen, China. Dr. Chen is leading the speech and physiological signal processing Research Group in SUSTech. He has authored or coauthored more than 100 journal papers and more than 100 conference papers in IEEE journals/conferences, Interspeech, Journal of Acoustical Society of America. His research interests include speech communication and assistive hearing technologies, brain-computer interface, and biomedical signal processing. He was tutorial speaker of Interspeech2022, Interspeech2020, EUSIPCO2022, APSIPA2021, and APSIPA2019, and organized special session Signal processing for assistive hearing devices at ICASSP2015. Dr. Chen is an APSIPA distinguished Lecturer (2022-2023), and is currently an Associate Editor for Biomedical Signal Processing and Control and Frontiers in Human Neuroscience.</p>
 </div>
 
 </div>
