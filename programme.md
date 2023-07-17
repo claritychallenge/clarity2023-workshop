@@ -53,7 +53,7 @@ Provisional timings and session details are provided below. All times are in Dub
 
 <h1>Objective speech intelligibility prediction: Insights from human speech perception</h1>
 
-<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractWang" aria-expanded="false" aria-controls="collapseAbstractChen">
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractChen" aria-expanded="false" aria-controls="collapseAbstractChen">
     Abstract and Bio
   </button>
 
@@ -100,8 +100,6 @@ Provisional timings and session details are provided below. All times are in Dub
   </button>
 
 </div>
-</div>
-</div>
 
 <div class="collapse" id="collapseAbstractWang">
 
@@ -134,6 +132,89 @@ DNN-based beamforming.</p>
 
 </div>
 
+</div>
+
+</div>
+</div>
+
+<h1>Invited talks</h1>
+
+<div class="card m-3">
+<a name="invited1"></a>
+  
+<div class="card-header">
+<div class="row  align-items-center">
+  
+<div class="col-sm-3">
+<img src="/clarity2023-workshop/assets/images/lorena_aldana.png" alt="Lorena Aldana" class="float-left rounded-circle" style="width:100%" />
+</div>
+  
+<div class="col-sm-9">
+<h1 class="lead">Lorena Aldana<div class="text-muted">University of Edinburgh, UK</div></h1>
+  
+<h1>Designing the Audio-Visual Speech Enhancement Challenge (AVSEC)</h1>
+  
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAldana" aria-expanded="false" aria-controls="collapseAbstractAldana">
+Abstract
+</button>
+  
+</div>
+
+<div class="collapse" id="collapseAbstractAldana">
+  
+<div class="card-body">
+<h1 class="card-title">Designing the Audio-Visual Speech Enhancement Challenge (AVSEC)</h1>
+  
+<h3>Abstract</h3>
+  
+<p>The Audio-Visual Speech Enhancement Challenge (AVSEC) sets the first benchmark in the field of audio-visual speech enhancement, providing a carefully designed dataset and scalable protocol for human listening evaluation of AV-SE systems. AV scenes comprise audio and video of a target speaker mixed with an interferer that can be either noise or a competing speaker. Target speaker videos are selected from LRS3. AV-SE systems are evaluated in terms of intelligibility from listening tests with human participants. To evaluate the systems, we propose a scalable and efficient method to assess intelligibility from “in-the-wild stimuli” that does not require a specific sentence structure. This talk will present the scope and limitations of current design choices in AVSEC.</p>
+    
+</div>
+  
+</div>
+  
+</div>
+
+</div>
+</div>
+
+<div class="card m-3">
+<a name="invited2"></a>
+  
+<div class="card-header">
+<div class="row  align-items-center">
+  
+<div class="col-sm-3">
+<img src="/clarity2023-workshop/assets/images/michael_akeroyd.jpg" alt="Michael Akeroyd" class="float-left rounded-circle" style="width:100%" />
+</div>
+  
+<div class="col-sm-9">
+<h1 class="lead">Michael Akeroyd<div class="text-muted">University of Nottingham, UK</div></h1>
+  
+<h1>The COG-MHEAR Project: Towards cognitively-inspired multi-modal hearing aids (title TBC)</h1>
+  
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAkeroyd" aria-expanded="false" aria-controls="collapseAbstractAkeroyd">
+Abstract
+</button>
+
+</div>
+
+<div class="collapse" id="collapseAbstractAkeroyd">
+  
+<div class="card-body">
+<h1 class="card-title">The COG-MHEAR Project: Towards cognitively-inspired multi-modal hearing aids (title TBC)</h1>
+  
+<h3>Abstract</h3>
+  
+<p>TBC</p>
+
+</div>
+
+</div>
+  
+</div>
+
+</div>
 </div>
 
 <br/>
