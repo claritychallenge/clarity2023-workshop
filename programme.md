@@ -195,7 +195,7 @@ Abstract
 <div class="col-sm-9">
 <h1 class="lead">Michael Akeroyd<div class="text-muted">University of Nottingham, UK</div></h1>
   
-<h1>The COG-MHEAR Project: Towards cognitively-inspired multi-modal hearing aids (title TBC)</h1>
+<h1>The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids</h1>
   
 <button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAkeroyd" aria-expanded="false" aria-controls="collapseAbstractAkeroyd">
 Abstract
