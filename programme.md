@@ -139,6 +139,8 @@ DNN-based beamforming.</p>
 
 <h1>Invited talks</h1>
 
+<!-- beginning of invited talk block -->
+
 <div class="card m-3">
 <a name="invited1"></a>
   
@@ -168,7 +170,7 @@ Abstract
 <h3>Abstract</h3>
   
 <p>The Audio-Visual Speech Enhancement Challenge (AVSEC) sets the first benchmark in the field of audio-visual speech enhancement, providing a carefully designed dataset and scalable protocol for human listening evaluation of AV-SE systems. AV scenes comprise audio and video of a target speaker mixed with an interferer that can be either noise or a competing speaker. Target speaker videos are selected from LRS3. AV-SE systems are evaluated in terms of intelligibility from listening tests with human participants. To evaluate the systems, we propose a scalable and efficient method to assess intelligibility from “in-the-wild stimuli” that does not require a specific sentence structure. This talk will present the scope and limitations of current design choices in AVSEC.</p>
-    
+
 </div>
   
 </div>
@@ -177,6 +179,8 @@ Abstract
 
 </div>
 </div>
+
+<!-- end of invited talk block -->
 
 <div class="card m-3">
 <a name="invited2"></a>
@@ -215,6 +219,53 @@ Abstract
 </div>
 
 </div>
+</div>
+
+<!-- end of invited talk block -->
+
+<div class="card m-3">
+<a name="invited3"></a>
+  
+<div class="card-header">
+<div class="row  align-items-center">
+  
+<div class="col-sm-3">
+<img src="/clarity2023-workshop/assets/images/dominika_woszczyk.png" alt="Dominika Woszczyk" class="float-left rounded-circle" style="width:100%" />
+</div>
+  
+<div class="col-sm-9">
+<h1 class="lead">Dominika Woszczyk<div class="text-muted">Imperial College London, UK</div></h1>
+  
+<h1>Voice Conversion for Lombard Speaking Style with Implicit Acoustic Feature Conditioning</h1>
+  
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractWoszczyk" aria-expanded="false" aria-controls="collapseAbstractWoszczyk">
+Abstract
+</button>
+  
+</div>
+
+<div class="collapse" id="collapseAbstractWoszczyk">
+  
+<div class="card-body">
+<h1 class="card-title">Voice Conversion for Lombard Speaking Style with Implicit Acoustic Feature Conditioning</h1>
+  
+<i>Dominika C Woszczyk (Imperial College London); Sam Ribeiro (Amazon Alexa); Thomas Merritt (Amazon); Daniel Korzekwa (Nvidia)</i>
+
+<h3>Abstract</h3>
+  
+<p>Lombard speaking style in Text-to-Speech (TTS) systems can enhance speech intelligibility and be advantageous in noisy environments and for individuals with hearing loss. However, training such models requires a large amount of data and the Lombard effect is challenging to record due to speaker and noise variability and tiring recording conditions. Voice conversion (VC) has been shown to be a useful augmentation technique to train TTS systems when data from the target speaker in the desired speaking style is unavailable. Our focus in this study is on Lombard speaking style conversion, aiming to convert speaker identity while retaining the distinctive acoustic characteristics of the Lombard style. We compare voice conversion models with implicit and explicit acoustic feature conditioning. Our results show that our implicit conditioning strategy achieves an intelligibility gain comparable to the model conditioned on explicit acoustic features, while also preserving speaker similarity.</p>
+
+</div>
+  
+</div>
+  
+</div>
+
+</div>
+</div>
+
+<!-- end of invited talk block -->
+
 </div>
 
 <br/>
