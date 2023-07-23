@@ -206,11 +206,13 @@ Abstract
 <div class="collapse" id="collapseAbstractAkeroyd">
   
 <div class="card-body">
-<h1 class="card-title">The COG-MHEAR Project: Towards cognitively-inspired multi-modal hearing aids (title TBC)</h1>
+<h1 class="card-title">The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids</h1>
   
+<i>Michael A Akeroyd (University of Nottingham), Amir Hussain (Edinburgh Napier), Peter Bell (Edinburgh), Ahsan Adeel (Wolverhampton), Qammar Hussain Abbasi (Glasgow), Steve Renals (Edinburgh), Tughrul Arslan (Edinburgh), Tharmalingam Ratnarajah (Edinburgh), Lynne Baillie (Heriot-Watt), Mathini Sellathurai (Heriot-Watt) , Muhammad Imran (Glasgow), Emma Hart, (Edinburgh Napier), Ahmed Al-Dubai, (Edinburgh Napier), William Buchanan (Edinburgh Napier), Alexander Casson (Manchester), & Dorothy Hardy (Edinburgh Napier)</i>
+
 <h3>Abstract</h3>
   
-<p>TBC</p>
+<p>The lack of take-up of hearing aids, their use, their stigma, the effort required to use them, and the limitations in what they can do for speech enhancement remain fundamental problems for auditory research. The COG-MHEAR project is a 4-year EPSRC-funded project that is taking a transformative, interdisciplinary approach to address some of these issues. We are creating prototypes of multi-modal aids which not only amplify sounds but also use information collected from a range of sensors to improve understanding of speech, including visual information of the movements of the speaker's lips, hand gestures, and similar. But such devices bring challenges in preserving privacy and operating with minimum power and minimum delay. In this talk we will give an overview of the project, some of the results, and some of the challenges.</p>
 
 </div>
 
