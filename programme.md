@@ -5,7 +5,7 @@ title: Programme
 
 Clarity-2023 will be a one-day workshop with a single track.
 
-The morning will focus on <b>hearing aid speech intelligibility prediction</b> and will present the outcomes 2nd Clarity Prediction Challenge. The afternoon will focus on <b>hearing aid speech enhancement</b> and will conclude with a discussion of requirements for the 3rd Clarity Enhancement Challenge.
+The morning will focus on <b>hearing aid speech intelligibility prediction</b> and will present the outcomes 2nd Clarity Prediction Challenge. The afternoon will focus on <b>hearing aid speech enhancement</b> including a presentation of plans for 3rd Clarity Enhancement Challenge.
 
 Provisional timings and session details are provided below. All times are in Dublin local time (UTC+1).
 
@@ -19,16 +19,18 @@ Provisional timings and session details are provided below. All times are in Dub
 <table style="margin-left: 1em;">
 <tbody>
 <tr><td>9:00</td><td>Welcome</td></tr>
-<tr><td>9:10</td><td><a href="#keynote1">Keynote 1</a> - Fei Chen (SUSTech) </td> </tr>
+<tr><td>9:10</td><td><a href="#keynote1">Keynote 1</a> - Theme: Intelligibility Prediction - Fei Chen (SUSTech) </td> </tr>
 <tr><td>10:00</td><td>The Clarity Prediction Challenge Overview </td></tr>
-<tr><td>10:20</td><td>Break</td></tr>
+<tr><td>10:20</td><td>Break - Coffee/Tea</td></tr>
 <tr><td>10:40</td><td>Clarity Prediction Challenge Systems</td></tr>
-<tr><td>12:40</td><td> Prizes and conclusions </td> </tr>
+<tr><td>12:40</td><td>Prizes and conclusions </td> </tr>
 <tr><td>12:50</td><td>Lunch</td></tr>
-<tr><td>13:30</td><td><a href="#keynote2">Keynote 2</a> - DeLiang Wang (Ohio State University) </td> </tr>
-<tr><td>14:30</td><td>Break</td></tr>
-<tr><td>15:00</td><td>Hearing Aid Speech Enhancement </td></tr>
-<tr><td>17:00</td><td> CEC3 discussion + Future Directions </td></tr>
+<tr><td>13:30</td><td>Hearing Aid Speech Enhancement - A user's perspective</td></tr>
+<tr><td>13:50</td><td><a href="#keynote2">Keynote 2</a> - Theme: Speech Enhancement - DeLiang Wang (Ohio State University) </td> </tr>
+<tr><td>14:50</td><td>Plans for the 3rd Clarity Enhancement Challenge</td></tr>
+<tr><td>15:10</td><td>Discussion</td></tr>
+<tr><td>15:30</td><td>Break - Coffee/Tea</td></tr>
+<tr><td>15:50</td><td>Hearing Aid Speech Enhancement - Invited Talks</td></tr>
 <tr><td>17:30</td><td>Close</td></tr>
 
 </tbody>
