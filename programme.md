@@ -150,6 +150,47 @@ DNN-based beamforming.</p>
 <div class="row  align-items-center">
   
 <div class="col-sm-3">
+<img src="/clarity2023-workshop/assets/images/daniel_wong.png" alt="Daniel Wong" class="float-left rounded-circle" style="width:100%" />
+</div>
+  
+<div class="col-sm-9">
+<h1 class="lead">Daniel Wong<div class="text-muted">Meta Reality Labs, US</div></h1>
+  
+<h1>Project Aria: Investigating Ego-Centric Hearing Augmentation</h1>
+  
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractWong" aria-expanded="false" aria-controls="collapseAbstractWong">
+Abstract
+</button>
+  
+</div>
+
+<div class="collapse" id="collapseAbstractWong">
+  
+<div class="card-body">
+<h1 class="card-title">Project Aria: Investigating Ego-Centric Hearing Augmentation</h1>
+  
+<h3>Abstract</h3>
+  
+<p>Augmented reality glasses provide a practical wearable form-factor for speech enhancement that can leverage multi-microphone processing technology and sensor fusion. One application that Meta Reality Labs Research is focusing on is context-aware hearing augmentation in noisy environments. To help tackle this challenge, Project Aria provides a data-gathering platform for investigating the problem space of ego-centric scene understanding, user understanding and speech enhancement. In this talk, I will discuss the platform and some of the most recent work from Meta on ego-centric hearing augmentation.</p>
+
+</div>
+  
+</div>
+  
+</div>
+
+</div>
+</div>
+
+<!-- end of invited talk block -->
+
+<div class="card m-3">
+<a name="invited2"></a>
+  
+<div class="card-header">
+<div class="row  align-items-center">
+  
+<div class="col-sm-3">
 <img src="/clarity2023-workshop/assets/images/lorena_aldana.png" alt="Lorena Aldana" class="float-left rounded-circle" style="width:100%" />
 </div>
   
@@ -185,7 +226,7 @@ Abstract
 <!-- end of invited talk block -->
 
 <div class="card m-3">
-<a name="invited2"></a>
+<a name="invited3"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
@@ -228,7 +269,7 @@ Abstract
 <!-- end of invited talk block -->
 
 <div class="card m-3">
-<a name="invited3"></a>
+<a name="invited4"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
