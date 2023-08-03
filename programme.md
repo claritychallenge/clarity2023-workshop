@@ -144,7 +144,7 @@ DNN-based beamforming.</p>
 <!-- beginning of invited talk block -->
 
 <div class="card m-3">
-<a name="invited2"></a>
+<a name="invited1"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
@@ -185,7 +185,7 @@ Abstract
 <!-- end of invited talk block -->
 
 <div class="card m-3">
-<a name="invited3"></a>
+<a name="invited2"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
@@ -228,7 +228,58 @@ Abstract
 <!-- end of invited talk block -->
 
 <div class="card m-3">
-<a name="invited1"></a>
+<a name="invited3"></a>
+  
+<div class="card-header">
+<div class="row  align-items-center">
+  
+<div class="col-sm-3">
+<img src="/clarity2023-workshop/assets/images/peter_derleth.png" alt="Peter Derleth" class="float-left rounded-circle" style="width:100%" />
+</div>
+  
+<div class="col-sm-9">
+<h1 class="lead">Peter Derleth<div class="text-muted">Sonova AG, Switzerland</div></h1>
+  
+<h1>Application of AI-based Signal processing on assistive hearing solutions</h1>
+  
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractDerleth" aria-expanded="false" aria-controls="collapseAbstractDerleth">
+Abstract
+</button>
+  
+</div>
+
+<div class="collapse" id="collapseAbstractDerleth">
+  
+<div class="card-body">
+<h1 class="card-title">Application of AI-based Signal processing on assistive hearing solutions</h1>
+  
+<h3>Abstract</h3>
+  
+<p>Assistive hearing solutions come in a variety of form factors, are designed to serve various use cases, are targeted at different user groups and are distributed to the market as consumer or medical product. Each of the mentioned aspects influences if a technological/functional innovation reaches the respective market segment and get’s the chance to improve the daily life of human listeners. The presentation will shed a light on existing and near future (AI-based) hearing aid technology.</p>
+
+<h3>Bio</h3>
+Dr. Peter Derleth (*1968); Degree in applied physics (1995); PhD in Psychoacoustics (1999) University of Oldenburg, Germany.
+
+Since 2000 employed at Sonova AG, Switzerland. Position: Principal Expert ‘Hearing Performance’
+which covers the fields of acoustics, audiology, algorithmic research and performance profiling.
+Research topics range from acoustic stability enhancement (Feedback Cancelling) over directional
+(Beam Forming) and spectral algorithms (Gain Models, Noise Cancelling, Frequency Manipulations)
+to binaural and psychoacoustic effects. Latest focus field covers applications of AI-based Signal-
+processing for improved Hearing Performance.
+
+</div>
+  
+</div>
+  
+</div>
+
+</div>
+</div>
+
+<!-- end of invited talk block -->
+
+<div class="card m-3">
+<a name="invited4"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
@@ -269,7 +320,7 @@ Abstract
 <!-- end of invited talk block -->
 
 <div class="card m-3">
-<a name="invited4"></a>
+<a name="invited5"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
