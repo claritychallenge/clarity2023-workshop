@@ -124,7 +124,7 @@ Challenge 2 <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>
 
 <tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
 <td><b> Temporal-hierarchical features from noise-robust speech foundation models
-for non-intrusive intelligibility prediction <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Santiago Cuervo and Ricard Marxer  </span> <i>(Universit´e de Toulon, Aix Marseille Universit´e, France)</i></td>
+for non-intrusive intelligibility prediction <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Santiago Cuervo and Ricard Marxer  </span> <i>(Université de Toulon, Aix Marseille Université, France)</i></td>
 </tr>
 
 </tbody>
