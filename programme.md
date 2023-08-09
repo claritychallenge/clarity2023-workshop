@@ -22,7 +22,7 @@ Provisional timings and session details are provided below. All times are in Dub
 <tr><td>9:10</td><td><a href="#keynote1">Keynote 1</a> - Theme: Intelligibility Prediction - Fei Chen (SUSTech) </td> </tr>
 <tr><td>10:00</td><td>The Clarity Prediction Challenge Overview </td></tr>
 <tr><td>10:20</td><td>Break - Coffee/Tea</td></tr>
-<tr><td>10:40</td><td>Clarity Prediction Challenge Systems</td></tr>
+<tr><td>10:40</td><td><a href="#CPC2">Clarity Prediction Challenge Systems</a></td></tr>
 <tr><td>12:40</td><td>Prizes and conclusions </td> </tr>
 <tr><td>12:50</td><td>Lunch</td></tr>
 <tr><td>13:30</td><td>Hearing Aid Speech Enhancement - A user's perspective</td></tr>
@@ -30,7 +30,7 @@ Provisional timings and session details are provided below. All times are in Dub
 <tr><td>14:50</td><td>Plans for the 3rd Clarity Enhancement Challenge</td></tr>
 <tr><td>15:10</td><td>Discussion</td></tr>
 <tr><td>15:30</td><td>Break - Coffee/Tea</td></tr>
-<tr><td>15:50</td><td>Hearing Aid Speech Enhancement - Invited Talks</td></tr>
+<tr><td>15:50</td><td><a href="#invited">Hearing Aid Speech Enhancement - Invited Talks</a></td></tr>
 <tr><td>17:30</td><td>Close</td></tr>
 
 </tbody>
@@ -38,7 +38,7 @@ Provisional timings and session details are provided below. All times are in Dub
 </div>
 </div>
 
-<h1>Keynote talks</h1>
+<h1>Keynote 1</h1>
 
 <div class="card m-3">
   <a name="keynote1"></a>
@@ -81,6 +81,59 @@ Provisional timings and session details are provided below. All times are in Dub
 
 </div>
 </div>
+
+<a name="CPC2"></a>
+
+<h1>Clarity Prediction Challenge papers</h1>
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+
+<!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
+
+<tr><td valign="top" style="margin-right: 5em;"></td>
+<td><b> A Non-Intrusive Speech Intelligibility Prediction Using Binaural Cues and
+Time-Series Model with One-Hot Listener Embedding <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Shogo Okada, and Masashi Unoki</span><i> (Japan Advanced Institute of Science and Technology, Japan)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
+<td><b> Deep Learning-based Speech Intelligibility Prediction Model by Incorporating Whisper for Hearing Aids <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Ryandhimas E Zezario<sup>1</sup>, Chiou-Shann Fuh<sup>2</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup>  </span><i> (<sup>1</sup>Academia Sinica, Taiwan; <sup>2</sup>National Taiwan University)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
+<td><b> Prediction of Behavioral Speech Intelligibility using a Computational Model of
+the Auditory System <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Nursadul Mamun<sup>1</sup>, Sabbir Ahmed<sup>2</sup>, John.H.L.Hansen<sup>1</sup></span><i> (<sup>1</sup>University of Texas at Dallas, US; <sup>2</sup>Chittagong University of Engineering and Technology, Bangladesh)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
+<td><b> Combining Acoustic, Phonetic, Linguistic and Audiometric data in an Intrusive Intelligibility Metric for Hearing-Impaired Listeners <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Mark Huckvale and Gaston Hilkhuysen</span><i> (University College London, UK)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
+<td><b> A Non-intrusive Binaural Speech Intelligibility Prediction for Clarity-2023 <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Katsuhiko Yamamoto  </span><i>(AI Lab, CyberAgent, Inc., Japan)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
+<td><b> Pre-Trained Intermediate ASR Features and Human Memory Simulation for
+Non-Intrusive Speech Intelligibility Prediction in the Clarity Prediction
+Challenge 2 <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Rhiannon Mogridge, George Close, Robert Sutherland, Stefan Goetze and Anton Ragni </span><i> (University of Sheffield, UK)</i></td>
+</tr>
+
+<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
+<td><b> Temporal-hierarchical features from noise-robust speech foundation models
+for non-intrusive intelligibility prediction <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Santiago Cuervo and Ricard Marxer  </span> <i>(Universit´e de Toulon, Aix Marseille Universit´e, France)</i></td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+
+<h1>Keynote 2</h1>
 
 <div class="card m-3">
   <a name="keynote2"></a>
@@ -138,6 +191,8 @@ DNN-based beamforming.</p>
 
 </div>
 </div>
+
+<a name="invited"></a>
 
 <h1>Invited talks</h1>
 
