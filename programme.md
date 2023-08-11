@@ -7,7 +7,7 @@ Clarity-2023 will be a one-day workshop with a single track.
 
 The morning will focus on <b>hearing aid speech intelligibility prediction</b> and will present the outcomes 2nd Clarity Prediction Challenge. The afternoon will focus on <b>hearing aid speech enhancement</b> including a presentation of plans for 3rd Clarity Enhancement Challenge.
 
-Provisional timings and session details are provided below. All times are in Dublin local time (UTC+1).
+Timings and session details are provided below. All times are in Dublin local time (UTC+1).
 
 <div class="panel panel-default">
 <div class="panel-body">
@@ -18,7 +18,7 @@ Provisional timings and session details are provided below. All times are in Dub
 
 <table style="margin-left: 1em;">
 <tbody>
-<tr><td>9:00</td><td>Welcome</td></tr>
+<tr><td width=50px >9:00</td><td>Welcome</td></tr>
 <tr><td>9:10</td><td><a href="#keynote1">Keynote 1</a> - Theme: Intelligibility Prediction - Fei Chen (SUSTech) </td> </tr>
 <tr><td>10:00</td><td>The Clarity Prediction Challenge Overview </td></tr>
 <tr><td>10:20</td><td>Break - Coffee/Tea</td></tr>
@@ -94,36 +94,35 @@ Provisional timings and session details are provided below. All times are in Dub
 
 <!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
 
-<tr><td valign="top" style="margin-right: 5em;"></td>
-<td><b> A Non-Intrusive Speech Intelligibility Prediction Using Binaural Cues and
-Time-Series Model with One-Hot Listener Embedding <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Shogo Okada, and Masashi Unoki</span><i> (Japan Advanced Institute of Science and Technology, Japan)</i></td>
+<tr>
+<td width=100px valign="top">10:40-10:57</td><td style="padding-bottom: 1em;"><b> A Non-Intrusive Speech Intelligibility Prediction Using Binaural Cues and Time-Series Model with One-Hot Listener Embedding <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Shogo Okada, and Masashi Unoki</span><i> (Japan Advanced Institute of Science and Technology, Japan)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
-<td><b> Deep Learning-based Speech Intelligibility Prediction Model by Incorporating Whisper for Hearing Aids <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Ryandhimas E Zezario<sup>1</sup>, Chiou-Shann Fuh<sup>2</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup>  </span><i> (<sup>1</sup>Academia Sinica, Taiwan; <sup>2</sup>National Taiwan University)</i></td>
+<tr>
+<td width=100px valign="top">10:57-11:14</td><td style="padding-bottom: 1em;"><b> Deep Learning-based Speech Intelligibility Prediction Model by Incorporating Whisper for Hearing Aids <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Ryandhimas E Zezario<sup>1</sup>, Chiou-Shann Fuh<sup>2</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup>  </span><i> (<sup>1</sup>Academia Sinica, Taiwan; <sup>2</sup>National Taiwan University)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
-<td><b> Prediction of Behavioral Speech Intelligibility using a Computational Model of
+<tr>
+<td width=100px valign="top">11:14-11:31</td><td style="padding-bottom: 1em;"><b> Prediction of Behavioral Speech Intelligibility using a Computational Model of
 the Auditory System <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Nursadul Mamun<sup>1</sup>, Sabbir Ahmed<sup>2</sup>, John.H.L.Hansen<sup>1</sup></span><i> (<sup>1</sup>University of Texas at Dallas, US; <sup>2</sup>Chittagong University of Engineering and Technology, Bangladesh)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
-<td><b> Combining Acoustic, Phonetic, Linguistic and Audiometric data in an Intrusive Intelligibility Metric for Hearing-Impaired Listeners <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Mark Huckvale and Gaston Hilkhuysen</span><i> (University College London, UK)</i></td>
+<tr>
+<td width=100px valign="top">11:31-11:48</td><td style="padding-bottom: 1em;"><b> Combining Acoustic, Phonetic, Linguistic and Audiometric data in an Intrusive Intelligibility Metric for Hearing-Impaired Listeners <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Mark Huckvale and Gaston Hilkhuysen</span><i> (University College London, UK)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
-<td><b> A Non-intrusive Binaural Speech Intelligibility Prediction for Clarity-2023 <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Katsuhiko Yamamoto  </span><i>(AI Lab, CyberAgent, Inc., Japan)</i></td>
+<tr>
+<td width=100px valign="top">11:48-12:05</td><td style="padding-bottom: 1em;"><b> A Non-intrusive Binaural Speech Intelligibility Prediction for Clarity-2023 <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Katsuhiko Yamamoto  </span><i>(AI Lab, CyberAgent, Inc., Japan)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
-<td><b> Pre-Trained Intermediate ASR Features and Human Memory Simulation for
+<tr>
+<td width=100px valign="top">12:05-12:22</td><td style="padding-bottom: 1em;"><b> Pre-Trained Intermediate ASR Features and Human Memory Simulation for
 Non-Intrusive Speech Intelligibility Prediction in the Clarity Prediction
 Challenge 2 <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Rhiannon Mogridge, George Close, Robert Sutherland, Stefan Goetze and Anton Ragni </span><i> (University of Sheffield, UK)</i></td>
 </tr>
 
-<tr><td valign="top" style="margin-right: 5em; padding-bottom: 4em;"></td>
-<td><b> Temporal-hierarchical features from noise-robust speech foundation models
+<tr>
+<td width=100px valign="top">12:22-12:40</td><td style="padding-bottom: 1em;"><b> Temporal-hierarchical features from noise-robust speech foundation models
 for non-intrusive intelligibility prediction <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Santiago Cuervo and Ricard Marxer  </span> <i>(Université de Toulon, Aix Marseille Université, France)</i></td>
 </tr>
 
@@ -196,37 +195,70 @@ DNN-based beamforming.</p>
 
 <h1>Invited talks</h1>
 
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+<!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
+
+<tr>
+<td width=100px valign="top">15:50-16:15</td><td style="padding-bottom: 1em;"><b> Project Aria: Investigating Ego-Centric Hearing Augmentation </b><br /> <span class="author"><a href="#wong">Daniel Wong</a></span> <i>(Meta Reality Labs, US)</i></td>
+</tr>
+
+<tr>
+<td width=100px valign="top">16:15-16:40</td><td style="padding-bottom: 1em;"><b> Application of AI-based Signal processing to assistive hearing solutions </b><br /> <span class="author"><a href="#derleth">Peter Derleth</a></span> <i>(Sonova AG, Switzerland)</i></td>
+</tr>
+
+<tr>
+<td width=100px valign="top">16:40-17:00</td><td style="padding-bottom: 1em;"><b> Voice Conversion for Lombard Speaking Style with Implicit Acoustic Feature Conditioning</b><br /> <span class="author"><a href="#woszczyk">Dominika Woszczyk</a></span> <i>(Imperial College London, UK)</i></td>
+</tr>
+
+<tr>
+<td width=100px valign="top">17:00-17:20</td><td style="padding-bottom: 1em;"><b> Designing the Audio-Visual Speech Enhancement Challenge (AVSEC) </b><br /> <span class="author"><a href="#aldana">Lorena Aldana</a></span> <i>(University of Edinburgh, UK)</i></td>
+</tr>
+
+<tr>
+<td width=100px valign="top">17:20-17:30</td><td style="padding-bottom: 1em;"><b> The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids </b><br /> <span class="author"><a href="#akeroyd">Michael Akeroyd</a> </span><i>(University of Nottingham, UK)</i></td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+
 <!-- beginning of invited talk block -->
 
 <div class="card m-3">
-<a name="invited1"></a>
+<a name="wong"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
   
 <div class="col-sm-3">
-<img src="/clarity2023-workshop/assets/images/lorena_aldana.png" alt="Lorena Aldana" class="float-left rounded-circle" style="width:100%" />
+<img src="/clarity2023-workshop/assets/images/daniel_wong.png" alt="Daniel Wong" class="float-left rounded-circle" style="width:100%" />
 </div>
   
 <div class="col-sm-9">
-<h1 class="lead">Lorena Aldana<div class="text-muted">University of Edinburgh, UK</div></h1>
+<h1 class="lead">Daniel Wong<div class="text-muted">Meta Reality Labs, US</div></h1>
   
-<h1>Designing the Audio-Visual Speech Enhancement Challenge (AVSEC)</h1>
+<h1>Project Aria: Investigating Ego-Centric Hearing Augmentation</h1>
   
-<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAldana" aria-expanded="false" aria-controls="collapseAbstractAldana">
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractWong" aria-expanded="false" aria-controls="collapseAbstractWong">
 Abstract
 </button>
   
 </div>
 
-<div class="collapse" id="collapseAbstractAldana">
+<div class="collapse" id="collapseAbstractWong">
   
 <div class="card-body">
-<h1 class="card-title">Designing the Audio-Visual Speech Enhancement Challenge (AVSEC)</h1>
+<h1 class="card-title">Project Aria: Investigating Ego-Centric Hearing Augmentation</h1>
   
 <h3>Abstract</h3>
   
-<p>The Audio-Visual Speech Enhancement Challenge (AVSEC) sets the first benchmark in the field of audio-visual speech enhancement, providing a carefully designed dataset and scalable protocol for human listening evaluation of AV-SE systems. AV scenes comprise audio and video of a target speaker mixed with an interferer that can be either noise or a competing speaker. Target speaker videos are selected from LRS3. AV-SE systems are evaluated in terms of intelligibility from listening tests with human participants. To evaluate the systems, we propose a scalable and efficient method to assess intelligibility from “in-the-wild stimuli” that does not require a specific sentence structure. This talk will present the scope and limitations of current design choices in AVSEC.</p>
+<p>Augmented reality glasses provide a practical wearable form-factor for speech enhancement that can leverage multi-microphone processing technology and sensor fusion. One application that Meta Reality Labs Research is focusing on is context-aware hearing augmentation in noisy environments. To help tackle this challenge, Project Aria provides a data-gathering platform for investigating the problem space of ego-centric scene understanding, user understanding and speech enhancement. In this talk, I will discuss the platform and some of the most recent work from Meta on ego-centric hearing augmentation.</p>
 
 </div>
   
@@ -239,51 +271,10 @@ Abstract
 
 <!-- end of invited talk block -->
 
-<div class="card m-3">
-<a name="invited2"></a>
-  
-<div class="card-header">
-<div class="row  align-items-center">
-  
-<div class="col-sm-3">
-<img src="/clarity2023-workshop/assets/images/michael_akeroyd.jpg" alt="Michael Akeroyd" class="float-left rounded-circle" style="width:100%" />
-</div>
-  
-<div class="col-sm-9">
-<h1 class="lead">Michael Akeroyd<div class="text-muted">University of Nottingham, UK</div></h1>
-  
-<h1>The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids</h1>
-  
-<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAkeroyd" aria-expanded="false" aria-controls="collapseAbstractAkeroyd">
-Abstract
-</button>
-
-</div>
-
-<div class="collapse" id="collapseAbstractAkeroyd">
-  
-<div class="card-body">
-<h1 class="card-title">The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids</h1>
-  
-<i>Michael A Akeroyd (University of Nottingham), Amir Hussain (Edinburgh Napier), Peter Bell (Edinburgh), Ahsan Adeel (Wolverhampton), Qammar Hussain Abbasi (Glasgow), Steve Renals (Edinburgh), Tughrul Arslan (Edinburgh), Tharmalingam Ratnarajah (Edinburgh), Lynne Baillie (Heriot-Watt), Mathini Sellathurai (Heriot-Watt) , Muhammad Imran (Glasgow), Emma Hart, (Edinburgh Napier), Ahmed Al-Dubai, (Edinburgh Napier), William Buchanan (Edinburgh Napier), Alexander Casson (Manchester), & Dorothy Hardy (Edinburgh Napier)</i>
-
-<h3>Abstract</h3>
-  
-<p>The lack of take-up of hearing aids, their use, their stigma, the effort required to use them, and the limitations in what they can do for speech enhancement remain fundamental problems for auditory research. The COG-MHEAR project is a 4-year EPSRC-funded project that is taking a transformative, interdisciplinary approach to address some of these issues. We are creating prototypes of multi-modal aids which not only amplify sounds but also use information collected from a range of sensors to improve understanding of speech, including visual information of the movements of the speaker's lips, hand gestures, and similar. But such devices bring challenges in preserving privacy and operating with minimum power and minimum delay. In this talk we will give an overview of the project, some of the results, and some of the challenges.</p>
-
-</div>
-
-</div>
-  
-</div>
-
-</div>
-</div>
-
-<!-- end of invited talk block -->
+<!-- beginning of invited talk block -->
 
 <div class="card m-3">
-<a name="invited3"></a>
+<a name="derleth"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
@@ -333,49 +324,10 @@ processing for improved Hearing Performance.
 
 <!-- end of invited talk block -->
 
-<div class="card m-3">
-<a name="invited4"></a>
-  
-<div class="card-header">
-<div class="row  align-items-center">
-  
-<div class="col-sm-3">
-<img src="/clarity2023-workshop/assets/images/daniel_wong.png" alt="Daniel Wong" class="float-left rounded-circle" style="width:100%" />
-</div>
-  
-<div class="col-sm-9">
-<h1 class="lead">Daniel Wong<div class="text-muted">Meta Reality Labs, US</div></h1>
-  
-<h1>Project Aria: Investigating Ego-Centric Hearing Augmentation</h1>
-  
-<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractWong" aria-expanded="false" aria-controls="collapseAbstractWong">
-Abstract
-</button>
-  
-</div>
-
-<div class="collapse" id="collapseAbstractWong">
-  
-<div class="card-body">
-<h1 class="card-title">Project Aria: Investigating Ego-Centric Hearing Augmentation</h1>
-  
-<h3>Abstract</h3>
-  
-<p>Augmented reality glasses provide a practical wearable form-factor for speech enhancement that can leverage multi-microphone processing technology and sensor fusion. One application that Meta Reality Labs Research is focusing on is context-aware hearing augmentation in noisy environments. To help tackle this challenge, Project Aria provides a data-gathering platform for investigating the problem space of ego-centric scene understanding, user understanding and speech enhancement. In this talk, I will discuss the platform and some of the most recent work from Meta on ego-centric hearing augmentation.</p>
-
-</div>
-  
-</div>
-  
-</div>
-
-</div>
-</div>
-
-<!-- end of invited talk block -->
+<!-- beginning of invited talk block -->
 
 <div class="card m-3">
-<a name="invited5"></a>
+<a name="woszczyk"></a>
   
 <div class="card-header">
 <div class="row  align-items-center">
@@ -408,6 +360,94 @@ Abstract
 
 </div>
   
+</div>
+  
+</div>
+
+</div>
+</div>
+
+<!-- end of invited talk block -->
+
+<!-- beginning of invited talk block -->
+
+<div class="card m-3">
+<a name="aldana"></a>
+  
+<div class="card-header">
+<div class="row  align-items-center">
+  
+<div class="col-sm-3">
+<img src="/clarity2023-workshop/assets/images/lorena_aldana.png" alt="Lorena Aldana" class="float-left rounded-circle" style="width:100%" />
+</div>
+  
+<div class="col-sm-9">
+<h1 class="lead">Lorena Aldana<div class="text-muted">University of Edinburgh, UK</div></h1>
+  
+<h1>Designing the Audio-Visual Speech Enhancement Challenge (AVSEC)</h1>
+  
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAldana" aria-expanded="false" aria-controls="collapseAbstractAldana">
+Abstract
+</button>
+  
+</div>
+
+<div class="collapse" id="collapseAbstractAldana">
+  
+<div class="card-body">
+<h1 class="card-title">Designing the Audio-Visual Speech Enhancement Challenge (AVSEC)</h1>
+  
+<h3>Abstract</h3>
+  
+<p>The Audio-Visual Speech Enhancement Challenge (AVSEC) sets the first benchmark in the field of audio-visual speech enhancement, providing a carefully designed dataset and scalable protocol for human listening evaluation of AV-SE systems. AV scenes comprise audio and video of a target speaker mixed with an interferer that can be either noise or a competing speaker. Target speaker videos are selected from LRS3. AV-SE systems are evaluated in terms of intelligibility from listening tests with human participants. To evaluate the systems, we propose a scalable and efficient method to assess intelligibility from “in-the-wild stimuli” that does not require a specific sentence structure. This talk will present the scope and limitations of current design choices in AVSEC.</p>
+
+</div>
+  
+</div>
+  
+</div>
+
+</div>
+</div>
+
+<!-- end of invited talk block -->
+
+<!-- beginning of invited talk block -->
+
+<div class="card m-3">
+<a name="akeroyd"></a>
+  
+<div class="card-header">
+<div class="row  align-items-center">
+  
+<div class="col-sm-3">
+<img src="/clarity2023-workshop/assets/images/michael_akeroyd.jpg" alt="Michael Akeroyd" class="float-left rounded-circle" style="width:100%" />
+</div>
+  
+<div class="col-sm-9">
+<h1 class="lead">Michael Akeroyd<div class="text-muted">University of Nottingham, UK</div></h1>
+  
+<h1>The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids</h1>
+  
+<button class="btn btn-primary" style="color:white; margin: 10px; border-radius: 4px;" type="button" data-toggle="collapse" data-target="#collapseAbstractAkeroyd" aria-expanded="false" aria-controls="collapseAbstractAkeroyd">
+Abstract
+</button>
+
+</div>
+
+<div class="collapse" id="collapseAbstractAkeroyd">
+  
+<div class="card-body">
+<h1 class="card-title">The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids</h1>
+  
+<i>Michael A Akeroyd (University of Nottingham), Amir Hussain (Edinburgh Napier), Peter Bell (Edinburgh), Ahsan Adeel (Wolverhampton), Qammar Hussain Abbasi (Glasgow), Steve Renals (Edinburgh), Tughrul Arslan (Edinburgh), Tharmalingam Ratnarajah (Edinburgh), Lynne Baillie (Heriot-Watt), Mathini Sellathurai (Heriot-Watt) , Muhammad Imran (Glasgow), Emma Hart, (Edinburgh Napier), Ahmed Al-Dubai, (Edinburgh Napier), William Buchanan (Edinburgh Napier), Alexander Casson (Manchester), & Dorothy Hardy (Edinburgh Napier)</i>
+
+<h3>Abstract</h3>
+  
+<p>The lack of take-up of hearing aids, their use, their stigma, the effort required to use them, and the limitations in what they can do for speech enhancement remain fundamental problems for auditory research. The COG-MHEAR project is a 4-year EPSRC-funded project that is taking a transformative, interdisciplinary approach to address some of these issues. We are creating prototypes of multi-modal aids which not only amplify sounds but also use information collected from a range of sensors to improve understanding of speech, including visual information of the movements of the speaker's lips, hand gestures, and similar. But such devices bring challenges in preserving privacy and operating with minimum power and minimum delay. In this talk we will give an overview of the project, some of the results, and some of the challenges.</p>
+
+</div>
+
 </div>
   
 </div>
