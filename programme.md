@@ -7,6 +7,8 @@ Clarity-2023 will be a one-day workshop with a single track.
 
 The morning will focus on <b>hearing aid speech intelligibility prediction</b> and will present the outcomes 2nd Clarity Prediction Challenge. The afternoon will focus on <b>hearing aid speech enhancement</b> including a presentation of plans for 3rd Clarity Enhancement Challenge.
 
+All sessions will be in the McNabb Lecture Theatre, which is downstairs from the main reception. The first session will start at 9:00am, please arrive in good time to collect your name badge.
+
 Timings and session details are provided below. All times are in Dublin local time (UTC+1).
 
 <div class="panel panel-default">
