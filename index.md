@@ -71,24 +71,34 @@ The Clarity-2023 will also host the 2nd Clarity Prediction Challenge, that is ta
             </ul>
         </div>
 
-        <h2> Invited Speakers </h2>
+        <h2> Keynote Speakers </h2>
 
           <div class="board-list">
             <ul>
                 <li> DeLiang Wang<br /> <a href="#" class="text-muted">Ohio State University, US</a></li>
                 <li> Fei Chen<br /> <a href="#" class="text-muted">SUSTech, China</a></li>
+            </ul>
 
-                <li> ... </li>
+         <h2> Invited Talks </h2>
+
+          <div class="board-list">
+            <ul>
+                <li> Daniel Wong <br /> <a href="#" class="text-muted">Meta, US</a></li>
+                <li> Peter Derleth<br /> <a href="#" class="text-muted">Sonova AG, Switzerland</a></li>
+                <li> Dominika Woszczyk<br /> <a href="#" class="text-muted">Imperial College, UK</a></li>
+                <li> Lorena Aldana<br /> <a href="#" class="text-muted">University of Edinburgh, UK</a></li>
+                <li> Emma McAuley<br /> <a href="#" class="text-muted">Chime, Ireland</a></li>
+
             </ul>
             
         </div>
-        <h2> Dates </h2>
+        <h2> Registration </h2>
 
         <div class="board-list">
             <ul>
-                <li> Registration is <a href="registration.html">now open</a></li>
-                <li> Paper submission deadline 2nd June</li>
-                <li> <a href="dates.html">More info</a> </li>
+                <li> Registration is <a href="registration.html">open</a></li>
+             <!--   <li> Paper submission deadline 2nd June</li> -->
+             <!--    <li> <a href="dates.html">More info</a> </li> -->
             </ul>
         </div>
         <!--<h3> News </h3>

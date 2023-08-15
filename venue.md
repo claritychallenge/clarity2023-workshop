@@ -19,3 +19,19 @@ Please note, the entrance from Pearce Street will be closed and <b>you must acce
 <a href="{{ "/assets/images/campus_map.pdf"| relative_url }}">(Click here to download the map as a pdf)</a>.
 <p>
 <img height="800" vspace="30" alt="TCD campus"  src="{{ "/assets/images/campus.jpg"| relative_url }}"/>
+
+<h1>Wi-Fi Access</h1>
+
+To access the venu Wi-Fi, please follow the instructions below.
+
+<ul>
+<li>Select the ‘TCDconferenceWIFI’ SSID.</li>
+<li>A login page should automatically open. If it does not, open a web browser and try go to an  external webpage.</li>
+<li>On the TCDconferenceWIFI landing page, if you do not have a username and password, select the link to self-register. Otherwise enter your username and password.</li>
+<li>On the ‘Self-Registration’ page, enter the following details:</li>
+<ul>
+<li>Conference ID: <b>TCDCONF1D</b></li>
+<li>Mobile phone number: this will be used to send you a password and will also become the username.</li>
+</ul>
+<li>On the ‘Self-Registration Receipt’ page, select ‘Sign-In’ and enter the credentials you received via SMS.</li>
+</ul>
