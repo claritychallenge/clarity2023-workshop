@@ -134,6 +134,27 @@ for non-intrusive intelligibility prediction <!--<a href="./papers/Clarity_2023_
 </div>
 </div>
 
+<a name="invited2"></a>
+
+<h1>Invited talk</h1>
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+<!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
+
+<tr>
+<td width=100px valign="top">15:30-15:50</td><td style="padding-bottom: 1em;"><b> Hearing Aid Speech Enhancement - A User's Perspective </b><br /> <span class="author"><a href="#wong">Emma McAuley</a></span> <i>(Chime, Ireland)</i></td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+
 <h1>Keynote 2</h1>
 
 <div class="card m-3">
