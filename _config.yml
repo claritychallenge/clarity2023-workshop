@@ -35,7 +35,7 @@ header_pages:
   - registration.md
   - submissions.md
   - programme.md
-#  - results.md
+  - results.md
   - venue.md
   - organisers.md
 # Exclude from processing.
