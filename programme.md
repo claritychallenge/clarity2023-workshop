@@ -97,35 +97,50 @@ Timings and session details are provided below. All times are in Dublin local ti
 <!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
 
 <tr>
-<td width=100px valign="top">10:40-10:57</td><td style="padding-bottom: 1em;"><b> A Non-Intrusive Speech Intelligibility Prediction Using Binaural Cues and Time-Series Model with One-Hot Listener Embedding <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Shogo Okada, and Masashi Unoki</span><i> (Japan Advanced Institute of Science and Technology, Japan)</i></td>
+<td width=100px valign="top">10:00-10:20</td><td style="padding-bottom: 1em;"><b> The 2nd Clarity Prediction Challenge: A machine learning challenge for hearing aid intelligibility prediction </b> <a href="./slides/Clarity_2023_CPC2_slides_barker.pdf">[PDF]</a>  <a href="https://docs.google.com/presentation/d/1IxmYWlUeu4nxbHykdIWM9_PeIoxwyER2MYW3Q3vUkN4/edit#slide=id.g274425c64e7_1_0">[Google Slides]</a><br /> <span class="author">Jon Barker<sup>1</sup>, Michael A. Akeroyd<sup>2</sup>, Will Bailey<sup>1</sup>, Trevor J. Cox<sup>3</sup>, John F. Culling<sup>4</sup>, Simone Graetzer<sup>3</sup> and Graham Naylor<sup>2</sup></span><i> (<sup>1</sup>University of Sheffield; <sup>2</sup>University of Nottingham; <sup>3</sup>University of Salford; <sup>4</sup>Cardiff University)</i></td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+
+<!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
+
+<tr>
+<td width=100px valign="top">10:40-10:57</td><td style="padding-bottom: 1em;"><b> A Non-Intrusive Speech Intelligibility Prediction Using Binaural Cues and Time-Series Model with One-Hot Listener Embedding </b> <a href="./papers/Clarity_2023_CPC2_paper_mawalim.pdf">[Paper]</a> <br /> <span class="author">Candy Olivia Mawalim, Xiajie Zhou, Shogo Okada, and Masashi Unoki</span><i> (Japan Advanced Institute of Science and Technology, Japan)</i></td>
 </tr>
 
 <tr>
-<td width=100px valign="top">10:57-11:14</td><td style="padding-bottom: 1em;"><b> Deep Learning-based Speech Intelligibility Prediction Model by Incorporating Whisper for Hearing Aids <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Ryandhimas E Zezario<sup>1</sup>, Chiou-Shann Fuh<sup>2</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup>  </span><i> (<sup>1</sup>Academia Sinica, Taiwan; <sup>2</sup>National Taiwan University)</i></td>
+<td width=100px valign="top">10:57-11:14</td><td style="padding-bottom: 1em;"><b> Deep Learning-based Speech Intelligibility Prediction Model by Incorporating Whisper for Hearing Aids </b> <a href="./papers/Clarity_2023_CPC2_paper_zezario.pdf">[Paper]</a> <a href="./slides/CPC2_session_Talk_2_zezario.pdf">[Slides]</a> <br /> <span class="author">Ryandhimas E Zezario<sup>1</sup>, Chiou-Shann Fuh<sup>2</sup>, Hsin-Min Wang<sup>1</sup>, Yu Tsao<sup>1</sup>  </span><i> (<sup>1</sup>Academia Sinica, Taiwan; <sup>2</sup>National Taiwan University)</i></td>
 </tr>
 
 <tr>
-<td width=100px valign="top">11:14-11:31</td><td style="padding-bottom: 1em;"><b> Prediction of Behavioral Speech Intelligibility using a Computational Model of
-the Auditory System <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Nursadul Mamun<sup>1</sup>, Sabbir Ahmed<sup>2</sup>, John.H.L.Hansen<sup>1</sup></span><i> (<sup>1</sup>University of Texas at Dallas, US; <sup>2</sup>Chittagong University of Engineering and Technology, Bangladesh)</i></td>
+<td width=100px valign="top">11:14-11:31</td><td style="padding-bottom: 1em;"><b> Prediction of Behavioral Speech Intelligibility using a Computational Model of the Auditory System </b> <a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a><br /> <span class="author">Nursadul Mamun<sup>1</sup>, Sabbir Ahmed<sup>2</sup>, John.H.L.Hansen<sup>1</sup></span><i> (<sup>1</sup>University of Texas at Dallas, US; <sup>2</sup>Chittagong University of Engineering and Technology, Bangladesh)</i></td>
 </tr>
 
 <tr>
-<td width=100px valign="top">11:31-11:48</td><td style="padding-bottom: 1em;"><b> Combining Acoustic, Phonetic, Linguistic and Audiometric data in an Intrusive Intelligibility Metric for Hearing-Impaired Listeners <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Mark Huckvale and Gaston Hilkhuysen</span><i> (University College London, UK)</i></td>
+<td width=100px valign="top">11:31-11:48</td><td style="padding-bottom: 1em;"><b> Combining Acoustic, Phonetic, Linguistic and Audiometric data in an Intrusive Intelligibility Metric for Hearing-Impaired Listeners </b> <a href="./papers/Clarity_2023_CPC2_paper_huckvale.pdf">[Paper]</a> <a href="./slides/CPC2_session_Talk_4_huckvale.pdf">[Slides]</a><br /> <span class="author">Mark Huckvale and Gaston Hilkhuysen</span><i> (University College London, UK)</i></td>
 </tr>
 
 <tr>
-<td width=100px valign="top">11:48-12:05</td><td style="padding-bottom: 1em;"><b> A Non-intrusive Binaural Speech Intelligibility Prediction for Clarity-2023 <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Katsuhiko Yamamoto  </span><i>(AI Lab, CyberAgent, Inc., Japan)</i></td>
+<td width=100px valign="top">11:48-12:05</td><td style="padding-bottom: 1em;"><b> A Non-intrusive Binaural Speech Intelligibility Prediction for Clarity-2023 </b> <a href="./papers/Clarity_2023_CPC2_paper_yamamoto.pdf">[Paper]</a> <a href="./slides/CPC2_session_Talk_5_yamamoto.pdf">[Slides]</a><br /> <span class="author">Katsuhiko Yamamoto  </span><i>(AI Lab, CyberAgent, Inc., Japan)</i></td>
 </tr>
 
 <tr>
 <td width=100px valign="top">12:05-12:22</td><td style="padding-bottom: 1em;"><b> Pre-Trained Intermediate ASR Features and Human Memory Simulation for
-Non-Intrusive Speech Intelligibility Prediction in the Clarity Prediction
-Challenge 2 <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Rhiannon Mogridge, George Close, Robert Sutherland, Stefan Goetze and Anton Ragni </span><i> (University of Sheffield, UK)</i></td>
+Non-Intrusive Speech Intelligibility Prediction in the Clarity Prediction Challenge 2 </b> <a href="./papers/Clarity_2023_CPC2_paper_mogridge.pdf">[Paper]</a> <a href="./slides/CPC2_session_Talk_6_mogridge.pdf">[Slides]</a><br /> <span class="author">Rhiannon Mogridge, George Close, Robert Sutherland, Stefan Goetze and Anton Ragni </span><i> (University of Sheffield, UK)</i></td>
 </tr>
 
 <tr>
-<td width=100px valign="top">12:22-12:40</td><td style="padding-bottom: 1em;"><b> Temporal-hierarchical features from noise-robust speech foundation models
-for non-intrusive intelligibility prediction <!--<a href="./papers/Clarity_2023_CPC2_paper_mamun.pdf">[Paper]</a>--> <!--<a href="">[Slides]</a>--></b><br /> <span class="author">Santiago Cuervo and Ricard Marxer  </span> <i>(Université de Toulon, Aix Marseille Université, France)</i></td>
+<td width=100px valign="top">12:22-12:40</td><td style="padding-bottom: 1em;"><b> Temporal-hierarchical features from noise-robust speech foundation models for non-intrusive intelligibility prediction </b><a href="./papers/Clarity_2023_CPC2_paper_cuervo.pdf">[Paper]</a> <a href="./slides/CPC2_session_Talk_7_cuervo.pdf">[Slides]</a><br /> <span class="author">Santiago Cuervo and Ricard Marxer  </span> <i>(Université de Toulon, Aix Marseille Université, France)</i></td>
 </tr>
 
 </tbody>
@@ -242,7 +257,7 @@ DNN-based beamforming.</p>
 </tr>
 
 <tr>
-<td width=100px valign="top">17:20-17:30</td><td style="padding-bottom: 1em;"><b> The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids </b><br /> <span class="author"><a href="#akeroyd">Michael Akeroyd</a> </span><i>(University of Nottingham, UK)</i></td>
+<td width=100px valign="top">17:20-17:30</td><td style="padding-bottom: 1em;"><b> The COG-MHEAR project - Towards cognitively-inspired 5G-IoT enabled, multi-modal Hearing Aids </b> <a href="./slides/Clarity_2023_Invited_Akeroyd.pdf">[Slides]</a>  <br /> <span class="author"><a href="#akeroyd">Michael Akeroyd</a> </span><i>(University of Nottingham, UK)</i></td>
 </tr>
 
 </tbody>
