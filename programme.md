@@ -229,6 +229,25 @@ DNN-based beamforming.</p>
 </div>
 </div>
 
+<h1>Clarity Enhancement Challenge plans</h1>
+
+<div class="card  m-3">
+<div class="card-body">
+
+<table>
+<tbody>
+<!--<div style="margin-bottom: 1em;">Session chair: <i>TBC</i></div>-->
+
+<tr>
+<td width=100px valign="top">15:30-15:50</td><td style="padding-bottom: 1em;"><b> CEC3 plans and discussion </b><br /> <span class="author">Trevor J. Cox<sup>3</sup>, Jon Barker<sup>1</sup>, Michael A. Akeroyd<sup>2</sup>, Will Bailey<sup>1</sup>,  John F. Culling<sup>4</sup>, Simone Graetzer<sup>3</sup> and Graham Naylor<sup>2</sup></span><i> (<sup>1</sup>University of Sheffield; <sup>2</sup>University of Nottingham; <sup>3</sup>University of Salford; <sup>4</sup>Cardiff University) </i> <a href="./slides/Clarity_2023_CEC3_slides_cox.pdf">[Slides]</a> </td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+</div>
+
 <a name="invited"></a>
 
 <h1>Invited talks</h1>
