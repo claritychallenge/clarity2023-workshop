@@ -252,13 +252,16 @@ Results are shown for all submitted systems. For RMSE scores, small values are b
       <td></td>
       <td>E020</td>
       <td>
-
+        <a
+          href="./papers/CPC2_E020_report.pdf"
+          >[paper]</a
+        >
       </td>
       <td>No</td>
       <td>39.8</td>
       <td>0.33</td>
     </tr>
-    
+
     <tr>
       <td></td>
       <td>Prior</td>
