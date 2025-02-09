@@ -36,3 +36,5 @@ Please use the provided <a href="{{ "/assets/Clarity2023_paper_kit.tar.gz"| rela
 <li/>Abstracts will be reviewed to ensure that the challenge rules are met and that sufficient information is provided about the proposed system. Full papers (2 to 6 pages) will be due after the workshop and published in the workshop proceedings, provided that the review comments have been addressed.
 
 </ul>
+
+<i>The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</i>
